@@ -1,0 +1,186 @@
+.navigation .nav-links a:focus,
+.bttn:focus,
+button,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus {
+    background: #DC3522;
+    color: #ffffff !important;
+}
+
+.entry-footer a:focus {
+    color: #DC3522;
+}
+
+.comment-author .fn .url:focus {
+    background: #23A38F;
+    color: #FFF;
+}
+
+#site-navigation ul li:focus > a, {
+    background: #f53a25;
+}
+
+.ak-search .search-form .search-submit:focus {
+    background: #a5281b;
+}
+
+.slide_readmore-button:focus {
+    background: #DC3522;
+    color: #ffffff;
+}
+.fullwidth-slider .ap-basic-slider-wrapper .bx-controls-direction .bx-prev:focus{
+	left:10px;
+} 
+.fullwidth-slider .ap-basic-slider-wrapper .bx-controls-direction .bx-next:focus{
+	right:10px;
+}
+
+.ap-basic-slider-wrapper .bx-controls-direction .bx-prev:focus,
+.ap-basic-slider-wrapper .bx-controls-direction .bx-next:focus {
+    background: url("images/prev-next-hover.png") no-repeat scroll 0 0;
+}
+
+.ap-basic-slider-wrapper .bx-controls-direction .bx-next:focus {
+    right: -25px;
+    left: auto;
+    background-position: right center;
+}
+
+.readmore-button:focus:after {
+    right: -15px;
+    opacity: 1;
+    visibility: visible;
+}
+
+.feature-post-wrap figure.feature-post-thumbnail:focus figcaption {
+    opacity: 1;
+    visibility: visible;
+    cursor: pointer;
+}
+
+
+.feature-post-wrap figure.feature-post-thumbnail:focus figcaption:before {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.feature-post-wrap figure.feature-post-thumbnail figcaption:focus a {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.feature-post-wrap figure.feature-post-thumbnail figcaption a i.fa:focus {
+    border-radius: 100%;
+}
+
+.widget .icon-image:focus:before {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    -moz-transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.cta-btn-wrap a:focus,
+.feat-page_readmore_btn:focus {
+    background: #DC3522;
+    color: #ffffff !important;
+}
+
+.icon-image,
+.widget .icon-image:focus {
+    background: none repeat scroll 0 0 #dc3522;
+    color: #ffffff;
+    font-size: 30px;
+    height: 74px;
+    line-height: 74px;
+    margin: 0 auto 45px;
+    position: relative;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    width: 74px;
+    display: block;
+}
+
+.icon-image:focus {
+    color: #ffffff;
+}
+
+.service-post-wrap figure.services-post-thumbnail:focus figcaption {
+    opacity: 1;
+}
+
+.service-post-wrap figure.services-post-thumbnail:focus figcaption a {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.service-post-wrap figure.services-post-thumbnail:focus a img {
+    transform: scale(1.10);
+    -webkit-transform: scale(1.10);
+}
+
+.footer-socials a:focus {
+    color: #DC3522;
+}
+
+.featured-footer .wpcf7 input[type="submit"]:focus {
+    background: #F53A25;
+}
+
+.widget_newsletterwidget .newsletter-submit:focus {
+    border: medium none;
+    color: transparent;
+    font: 0px/0 a;
+    height: 40px;
+    padding: 0;
+    width: 100%;
+    background: url("images/newsletter-icon.png") no-repeat scroll center center #DC3522;
+}
+
+.widget a:focus,
+.widget a:focus:before {
+    color: #DC3522;
+}
+
+.widget_nav_menu .menu li a:focus,
+.widget_nav_menu .menu li a:focus:before {
+    color: #dc3522;
+}
+
+.category-blogs .entry-title a:focus {
+    color: #DC3522;
+}
+
+.category-post-list .entry-title a:focus {
+    color: #DC3522;
+}
+
+.category-blogs .entry-footer .readmore a:focus:before{
+    right: 6px;
+    opacity: 1;
+    visibility: visible;
+}
+
+.entry-footer-wrapper .user-wrapper:focus i.fa {
+    color: #DC3522;
+}
+
+.widget_tag_cloud .tagcloud a:focus {
+    background: #7b7b7b;
+}
+
+.no-results .page-content input[type="submit"]:focus {
+    background: #F53A25;
+}
+
+.search-results .entry-title a:focus{
+    color: #dc3522;
+}

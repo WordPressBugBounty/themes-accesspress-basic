@@ -1,0 +1,2046 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Basic 1.1.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-09-05 07:38+0000\n"
+"POT-Revision-Date: Wed May 27 2015 16:48:56 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: AccessPress Themes <info@accesspressthemes.com>\n"
+"Language-Team: AccessPress Themes <info@accesspressthemes.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:15
+msgid "Oops! "
+msgstr ""
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+msgid "ERROR"
+msgstr ""
+
+#. 1: title.
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:48 comments.php:69
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:51 comments.php:72
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:52 comments.php:73
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:17 content-single.php:19
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24 inc/template-tags.php:155
+msgid "Edit"
+msgstr ""
+
+#: content.php:67 inc/admin-panel/theme-options.php:702
+#: inc/widgets/wigets-features.php:139
+msgid "Read More..."
+msgstr ""
+
+#: footer.php:49
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:58
+msgid "Theme: "
+msgstr ""
+
+#: footer.php:59
+msgid " by AccessPress Themes"
+msgstr ""
+
+#: functions.php:60 header.php:104 header.php:126
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:48
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:114
+msgid "Search for:"
+msgstr ""
+
+#: header.php:115
+msgid "Search content..."
+msgstr ""
+
+#: header.php:117
+msgid "Search"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/apbasic-custom-metabox.php:14 inc/apbasic-custom-metabox.php:15
+msgid "Select Layout"
+msgstr ""
+
+#: inc/apbasic-custom-metabox.php:24
+msgid "Default Layout"
+msgstr ""
+
+#: inc/apbasic-custom-metabox.php:30 inc/apbasic-widgets.php:13
+#: inc/admin-panel/theme-options.php:339 inc/admin-panel/theme-options.php:389
+#: inc/admin-panel/theme-options.php:439
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/apbasic-custom-metabox.php:36 inc/apbasic-widgets.php:24
+#: inc/admin-panel/theme-options.php:333 inc/admin-panel/theme-options.php:383
+#: inc/admin-panel/theme-options.php:433
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/apbasic-custom-metabox.php:42 inc/admin-panel/theme-options.php:345
+#: inc/admin-panel/theme-options.php:395 inc/admin-panel/theme-options.php:445
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/apbasic-custom-metabox.php:48 inc/admin-panel/theme-options.php:351
+#: inc/admin-panel/theme-options.php:401 inc/admin-panel/theme-options.php:451
+msgid "No Sidebar Wide"
+msgstr ""
+
+#: inc/apbasic-custom-metabox.php:54 inc/admin-panel/theme-options.php:357
+#: inc/admin-panel/theme-options.php:407 inc/admin-panel/theme-options.php:457
+msgid "No Sidebar Narrow"
+msgstr ""
+
+#: inc/apbasic-widgets.php:15
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/apbasic-widgets.php:26
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: inc/apbasic-widgets.php:35
+msgid "Featured Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:37
+msgid "Shows widgets at Featured Post."
+msgstr ""
+
+#: inc/apbasic-widgets.php:46
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:48
+msgid "Shows widgets at Call To Action."
+msgstr ""
+
+#: inc/apbasic-widgets.php:57
+msgid "Icon Text Block Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:59
+msgid "Shows widgets at Icon Text Block Section."
+msgstr ""
+
+#: inc/apbasic-widgets.php:68
+msgid "Toggle Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:70
+msgid "Shows Toggles at Toggle Section."
+msgstr ""
+
+#: inc/apbasic-widgets.php:79
+msgid "Featured Page Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:81
+msgid "Shows Featured Page In Featured Page Section."
+msgstr ""
+
+#: inc/apbasic-widgets.php:90
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:92
+msgid "Shows widgets at Testimonialss."
+msgstr ""
+
+#: inc/apbasic-widgets.php:101
+msgid "Services Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:103
+msgid "Shows widgets at Services."
+msgstr ""
+
+#: inc/apbasic-widgets.php:112
+msgid "Header Text Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:114 inc/apbasic-widgets.php:125
+msgid "Shows widgets at Header Text Section."
+msgstr ""
+
+#: inc/apbasic-widgets.php:123
+msgid "Header Social Links Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:134
+msgid "Footer Social Links Section"
+msgstr ""
+
+#: inc/apbasic-widgets.php:136
+msgid "Shows widgets at Footer."
+msgstr ""
+
+#: inc/apbasic-widgets.php:145
+msgid "Footer One"
+msgstr ""
+
+#: inc/apbasic-widgets.php:147
+msgid "Shows widgets at Footer First Section ."
+msgstr ""
+
+#: inc/apbasic-widgets.php:156
+msgid "Footer Two"
+msgstr ""
+
+#: inc/apbasic-widgets.php:158
+msgid "Shows widgets at Footer Second Section."
+msgstr ""
+
+#: inc/apbasic-widgets.php:167
+msgid "Footer Three"
+msgstr ""
+
+#: inc/apbasic-widgets.php:169
+msgid "Shows widgets at Footer Third Section."
+msgstr ""
+
+#: inc/apbasic-widgets.php:178
+msgid "Footer Four"
+msgstr ""
+
+#: inc/apbasic-widgets.php:180
+msgid "Shows widgets at Footer Fourth Section."
+msgstr ""
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:94
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:102
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:127 inc/template-tags.php:138
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:131
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:142
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:173
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:176
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:179
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:182
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:185
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:188
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:188
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:195
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:197
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:199
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:201
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:203
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:205
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:207
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:211
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:215
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:217
+msgid "Archives"
+msgstr ""
+
+#: welcome/welcome.php:32
+msgid "Instant Demo Importer"
+msgstr ""
+
+#: welcome/welcome.php:38
+msgid ""
+"Instant Demo Importer Plugin adds the feature to Import the Demo Conent with "
+"a single click."
+msgstr ""
+
+#: welcome/welcome.php:45 inc/welcome/welcome.php:35
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/welcome.php:46 inc/welcome/welcome.php:37
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/welcome.php:47 inc/welcome/welcome.php:41
+msgid "Support"
+msgstr ""
+
+#: welcome/welcome.php:48 inc/welcome/welcome.php:39
+msgid "Free Vs Pro"
+msgstr ""
+
+#: welcome/welcome.php:49
+msgid "More WordPress Stuff"
+msgstr ""
+
+#. %1$s : theme name, %2$s : welcome page link
+#: welcome/welcome.php:141
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! Please make sure you visit our <a "
+"href=\"%2$s\">Welcome page</a> to get started with %1$s."
+msgstr ""
+
+#: welcome/welcome.php:142
+msgid "Lets Get Started"
+msgstr ""
+
+#: welcome/welcome.php:151
+msgid "Welcome"
+msgstr ""
+
+#. %1$s : theme name, %2$s : theme version
+#: welcome/welcome.php:163
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#. %s : theme name
+#: welcome/welcome.php:164
+#, php-format
+msgid ""
+"The %s is a simple, basic & clean.  It is beautifully designed responsive "
+"free WordPress business theme. It has useful features to setup your website "
+"fast and make your website operate smoothly. It is a widget based theme "
+"making it more flexible and easy to use."
+msgstr ""
+
+#: welcome/welcome.php:210 inc/welcome/welcome-config.php:180
+#: inc/welcome/welcome-config.php:197
+#: welcome/sections/recommended_plugins.php:33
+#: welcome/sections/recommended_plugins.php:90
+msgid "Activate"
+msgstr ""
+
+#: welcome/welcome.php:211 inc/welcome/welcome-config.php:198
+msgid "Activated"
+msgstr ""
+
+#: welcome/welcome.php:212 inc/welcome/welcome-config.php:199
+msgid "Installing Demo"
+msgstr ""
+
+#: welcome/welcome.php:213 inc/welcome/welcome-config.php:200
+msgid "Demo Installed"
+msgstr ""
+
+#: welcome/welcome.php:214 inc/welcome/welcome-config.php:201
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: welcome/welcome.php:321 inc/welcome/welcome.php:364
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:329 welcome/welcome.php:416 inc/welcome/welcome.php:374
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: welcome/welcome.php:409
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:438
+msgid "There was an error activating $api->name"
+msgstr ""
+
+#: welcome/welcome.php:527
+msgid "Basic Demo"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:98
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:111
+msgid "AccessPress Basic"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:116
+msgid " - Theme Option Panel"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:123
+msgid "Online Documentation"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:124
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:131
+msgid "Options Saved"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:135 inc/admin-panel/theme-options.php:175
+msgid "Header Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:138 inc/admin-panel/theme-options.php:279
+msgid "Design Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:141 inc/admin-panel/theme-options.php:542
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:144
+msgid "Translation"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:147
+msgid "About Accesspress Basic"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:161
+msgid "Pro Features"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:178
+msgid "Header Logo"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:182 inc/admin-panel/theme-options.php:233
+#: inc/admin-panel/theme-options.php:630 inc/widgets/widget-fields.php:194
+msgid "Upload"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:186 inc/admin-panel/theme-options.php:237
+#: inc/widgets/widget-fields.php:212
+msgid "Remove"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:195
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:199
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:203
+msgid "Show Both"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:207
+msgid "Disable"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:212
+msgid "Show"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:223
+msgid "Header Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:226
+msgid "Use Contents From Instead"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:226
+msgid " Header Text Widget "
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:226
+msgid "Instead"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:230
+msgid "Favicon"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:242
+msgid "Footer Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:248
+msgid "Activate Favicon"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:252
+msgid "Activate the favicon to display it in your site"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:257
+msgid "Show Search"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:261
+msgid "Show Search in Header"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:266
+msgid "Show Social Links"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:270
+msgid "show Social Icons in Header"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:284
+msgid "Boxed"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:288
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:294
+msgid "Site Layout"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:306
+#: inc/welcome/sections/getting_started.php:36
+msgid "Template Color"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:309
+msgid "Set the template color for the site"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:317
+msgid "Background Image"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:364
+msgid "Default Layout (Category/Blog)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:414
+msgid "Default Layout (Pages Only)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:464
+msgid "Default Layout (Posts Only)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:483
+msgid "Blog Image Large"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:487
+msgid "Blog Image Medium"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:491
+msgid "Blog Image Alternate Medium"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:495
+msgid "Blog Full Content"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:500
+msgid "Blog Posts Display Layout"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:511
+msgid "Enable/Disable (Footer Featured Widgets)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:520
+msgid "Enable/Disable (Page Comments)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:524
+msgid "Show Comments in Page"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:529
+msgid "Enable/Disable (Post Comments)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:533
+msgid "Show Comments in Post"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:547
+msgid "Yes"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:551
+msgid "No"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:557
+msgid "Show Slider"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:569
+msgid "Default"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:570
+msgid "Full Width Slider"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:574
+msgid "Slider Type"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:585
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:589
+msgid "Enable Slider in Post"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:606
+msgid "Mode"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:617
+msgid "Slider Links Option"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:621
+msgid "Open Slider Links in new Tab"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:638
+msgid ""
+"The Recommended Slider Image size is 676X444px for Default Slider & "
+"1350X530px for fullwidth slider."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:639
+msgid "Try using Transparent image for better result."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:644
+msgid " Title"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:650
+msgid " Description"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:656
+msgid " Read More Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:662
+msgid " Read More Link"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:668
+msgid " Read More Button Icon"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:671
+msgid "Get Fa-Icon"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:679
+msgid "Translations"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:687
+msgid "Read More... (Features)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:691
+msgid "More Info... (Services)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:713
+msgid "Tagged"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:717
+msgid "Posted On .. by .."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:720
+msgid "Jan, 1, 2015"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:722
+msgid "Dummy User"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:726
+msgid "Posted In"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:737
+msgid "Search Results For"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:748
+msgid "Know more about AccessPress Themes"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:752
+msgid "AccessPress Basic - is a FREE WordPress theme by"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:752
+msgid "- A WordPress Division of Access Keys."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:753
+msgid ""
+" Access Keys - has developed more than 350 WordPress websites for its "
+"clients."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:755
+msgid ""
+"We want to give \"a little beautiful thing\" - back to the community.<br />"
+"With our experience, we are creating \"AccessPress Basic\", a free WordPress "
+"theme, which includes the most useful features for a generic business "
+"website!"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:758
+msgid "For documentation, click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:758 inc/admin-panel/theme-options.php:759
+msgid "here"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:759
+msgid "For Video tutorials, click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:763
+msgid "Our other Products"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:764
+msgid "Themes - "
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:765
+msgid "Plugins - "
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:769
+msgid "Get in touch"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:771
+msgid ""
+"If you have any question/feedback regarding theme, please post in our forum"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:772
+msgid "Forum:"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:776
+msgid "For Queries Regading Themes"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:777
+msgid "Support:"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:786
+msgid "Save Options"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:55
+msgid "Access Demo Importer"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:59
+msgid ""
+"Access Demo Importer adds the feature to Import the Demo Conent with a "
+"single click."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:74
+msgid "Social booster for your site! A FREE plugin with premium features."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:81
+msgid ""
+"Connect your website visitors to your social community in an easy way! Link "
+"up your social media profiles via great looking social buttons."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:88
+msgid "Showcase your Tweets (Twitter Feeds) right on the site."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:95
+msgid ""
+"Contact Form 7 can manage multiple contact forms, plus you can customize the "
+"form and the mail contents flexibly with simple markup."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:106
+msgid ""
+"WOO Product Grid/List Design- Responsive Products Showcase Extension for "
+"Woocommerce"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:107
+msgid "1.0.3"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:114
+msgid ""
+"Design your WooCommerce shop like never before! A complete package for your "
+"Woo shop designer."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:119
+msgid ""
+"Woo Badge Designer - WooCommerce Product Badge Designer WordPress Plugin"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:120
+msgid "1.0.1"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:127
+msgid ""
+"Add some attractive badges on your product listing and single page and "
+"increase your sales upto 55%."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:132
+msgid ""
+"WP Admin White Label Login - WordPress Plugin For Advanced Customizable "
+"Login page"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:133
+msgid "1.3.5"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:140
+msgid ""
+"Make your default wp-admin screen look like a non WP one! Choose from some "
+"great ready to use template designs and many features to boost your "
+"WordPress backend."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:145
+msgid "Easy Side Tab Pro - Responsive Floating Tab Plugin For Wordpress"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:146
+msgid "1.0.6"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:153
+msgid ""
+"Place some great designed floating tabs on your site for quick links. "
+"Increase accessibility of your site."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:158
+msgid "Everest Timeline - Responsive WordPress Timeline Plugin"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:159
+msgid "2.0.2"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:166
+msgid "A perfect timeline maker! If you're planning to make one go for it!"
+msgstr ""
+
+#. Name of the theme
+#: inc/welcome/welcome-config.php:174
+msgid "Accesspress Basic"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:175
+msgid ""
+"AccessPress Basic- is a simple, basic & clean.  It is beautifully designed "
+"responsive free WordPress business theme. It has useful features to setup "
+"your website fast and make your website operate smoothly. It doesn't have "
+"much features which you probably won't use at all! Full width and boxed "
+"layout, featured slider, featured posts, services/features/projects layout, "
+"testimonial layout, blog layout, social media integration, call to action "
+"and many other page layouts. Fully responsive, WooCommerce compatible, "
+"bbPress compatible, translation ready, cross-browser compatible, SEO "
+"friendly, RTL support. AccessPress Basic is multi-purpose and is suitable "
+"for any type of business. Highest level of compatibility with mostly used WP "
+"plugins.  Great customer support via online chat, email, support forum. "
+"Official support forum: http://accesspressthemes.com/support/ View full demo "
+"here: https://accesspressthemes.com/accesspress-basic/"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:178
+#: welcome/sections/recommended_plugins.php:21
+#: welcome/sections/recommended_plugins.php:80
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:179
+#: welcome/sections/recommended_plugins.php:27
+#: welcome/sections/recommended_plugins.php:85
+msgid "Deactivate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:183
+msgid "Step 1 - Documentation"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:184
+msgid ""
+"Read the Documentation and follow the instructions to manage the site , it "
+"helps you to set up the theme more easily and quickly. The Documentation is "
+"very easy with its pictorial  and well managed listed instructions. "
+msgstr ""
+
+#: inc/welcome/welcome-config.php:186
+msgid "Read Now"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:187
+msgid "Step 2 - Customizer Panel"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:188 welcome/sections/getting_started.php:12
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:191 inc/welcome/welcome-config.php:207
+msgid "Premium Plugins"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:192 inc/welcome/welcome-config.php:208
+#: welcome/sections/recommended_plugins.php:66
+msgid "Free Plugins"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:204
+msgid ""
+"All these required plugins will be installed and activated while importing "
+"demo. Or you can choose to install and activate them manually. If you're not "
+"importing any of the demos, you must install and activate these plugins "
+"manually."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:205
+msgid "All Recommended action has been successfully completed."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:206
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/welcome/welcome.php:36
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/welcome/welcome.php:38
+msgid "Import Demo"
+msgstr ""
+
+#: inc/welcome/welcome.php:40
+msgid "ChangeLog"
+msgstr ""
+
+#: inc/welcome/welcome.php:116
+msgid "Welcome!"
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/welcome.php:117
+#, php-format
+msgid ""
+"Thank you for installing %1$s. It is now installed and ready to use. Here "
+"are some useful links to get started: "
+msgstr ""
+
+#: inc/welcome/welcome.php:125
+msgid "Starter site demos!"
+msgstr ""
+
+#: inc/welcome/welcome.php:131
+msgid "ready to use starter sites."
+msgstr ""
+
+#: inc/welcome/welcome.php:136
+msgid ""
+"You can also reach-out to us for any support during the theme setup and use."
+msgstr ""
+
+#: inc/welcome/welcome.php:137
+msgid "Contact Support"
+msgstr ""
+
+#: inc/welcome/welcome.php:145 welcome/sections/support.php:3
+#: inc/welcome/sections/support.php:31
+msgid "Documentation"
+msgstr ""
+
+#: inc/welcome/welcome.php:148
+msgid "Full Documentation"
+msgstr ""
+
+#: inc/welcome/welcome.php:152
+msgid "Return to your Dashboard"
+msgstr ""
+
+#. %s : Theme Name and Version
+#: inc/welcome/welcome.php:215
+msgid "Get connected, share your opinions and more via our social community: "
+msgstr ""
+
+#: inc/welcome/welcome.php:217
+msgid " -to receive updates, offers and more."
+msgstr ""
+
+#: inc/welcome/welcome.php:219
+msgid " -for tutorials, videos and more."
+msgstr ""
+
+#: inc/welcome/welcome.php:221
+msgid " -to stay updated. "
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/welcome.php:225
+#, php-format
+msgid "Are you enjoying %1$s? We would love to hear your feedback!"
+msgstr ""
+
+#: inc/welcome/welcome.php:466 inc/welcome/welcome.php:486
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:190
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:198
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/widget-fields.php:220
+msgid "View File"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:25
+msgid "A widget To Display Testimonial"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:38
+msgid "Clients Image"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:43
+msgid "Client Name"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:48
+msgid "Designation"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:53
+msgid "Testimonial"
+msgstr ""
+
+#: inc/widgets/widgets-contact.php:25
+msgid "A widget To Display Contact Info"
+msgstr ""
+
+#: inc/widgets/widgets-contact.php:38 inc/widgets/widgets-cta.php:38
+#: inc/widgets/widgets-icon-text-block.php:38
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widgets-contact.php:43
+msgid "Phone"
+msgstr ""
+
+#: inc/widgets/widgets-contact.php:48
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/widgets-contact.php:53
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/widgets-cta.php:25
+msgid "A widget To Display Call To Action"
+msgstr ""
+
+#: inc/widgets/widgets-cta.php:43
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/widgets-cta.php:48 inc/widgets/widgets-featured-page.php:49
+#: inc/widgets/widgets-icon-text-block.php:54
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widgets/widgets-cta.php:53 inc/widgets/widgets-featured-page.php:54
+#: inc/widgets/widgets-icon-text-block.php:59
+msgid "Read More Link"
+msgstr ""
+
+#: inc/widgets/widgets-cta.php:58
+msgid "Read More Button Icon"
+msgstr ""
+
+#: inc/widgets/widgets-featured-page.php:25
+msgid "A widget To Display Featured Page"
+msgstr ""
+
+#: inc/widgets/widgets-featured-page.php:38
+msgid "Page Title"
+msgstr ""
+
+#: inc/widgets/widgets-featured-page.php:40
+msgid "Displays the Page Title if left empty"
+msgstr ""
+
+#: inc/widgets/widgets-featured-page.php:44
+msgid "Feature Page"
+msgstr ""
+
+#: inc/widgets/widgets-icon-text-block.php:25
+msgid "A widget To Display Icon Text Block"
+msgstr ""
+
+#: inc/widgets/widgets-icon-text-block.php:43
+msgid "Details"
+msgstr ""
+
+#: inc/widgets/widgets-icon-text-block.php:48
+msgid "Fa - Icon Class"
+msgstr ""
+
+#: inc/widgets/widgets-icon-text-block.php:81
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/widgets-services.php:25
+msgid "A widget To Display Services"
+msgstr ""
+
+#: inc/widgets/widgets-services.php:38 inc/widgets/widgets-services.php:43
+#: inc/widgets/widgets-services.php:48 inc/widgets/wigets-features.php:38
+#: inc/widgets/wigets-features.php:43 inc/widgets/wigets-features.php:48
+#: inc/widgets/wigets-features.php:53 inc/widgets/wigets-features.php:58
+#: inc/widgets/wigets-features.php:63
+msgid "Page"
+msgstr ""
+
+#: inc/widgets/widgets-services.php:120
+msgid "More Info..."
+msgstr ""
+
+#: inc/widgets/widgets-toggle.php:25
+msgid "A widget To Display Toggle"
+msgstr ""
+
+#: inc/widgets/widgets-toggle.php:43
+msgid "Toggle Title"
+msgstr ""
+
+#: inc/widgets/widgets-toggle.php:48
+msgid "Toggle Content"
+msgstr ""
+
+#: inc/widgets/widgets-toggle.php:54
+msgid "Toggle Status"
+msgstr ""
+
+#: inc/widgets/wigets-features.php:25
+msgid "A widget To Display Feature Posts"
+msgstr ""
+
+#: inc/widgets/wigets-features.php:68
+msgid "Text Length"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:3 inc/welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:4 inc/welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:8 inc/welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:9 inc/welcome/sections/free_vs_pro.php:9
+msgid "Use in as many website as you need"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:13 inc/welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFE TIME"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:14 inc/welcome/sections/free_vs_pro.php:14
+msgid "Keep upto date"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:19 inc/welcome/sections/free_vs_pro.php:19
+msgid "Features"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:20 inc/welcome/sections/free_vs_pro.php:20
+msgid "Free"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:21 inc/welcome/sections/free_vs_pro.php:21
+msgid "Pro"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:25 inc/welcome/sections/free_vs_pro.php:25
+msgid "Demo Import."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:26 inc/welcome/sections/free_vs_pro.php:26
+msgid ""
+"Tired of configuring site from scratch. Installation of demo is just one "
+"click away."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:37 inc/welcome/sections/free_vs_pro.php:37
+msgid "Responsive Design"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:38 inc/welcome/sections/free_vs_pro.php:38
+msgid "Displays fine in device with screen sizes."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:49 inc/welcome/sections/free_vs_pro.php:49
+msgid "Translation Ready"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:50 inc/welcome/sections/free_vs_pro.php:50
+msgid "Create the site in your own custom language."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:61 inc/welcome/sections/free_vs_pro.php:61
+msgid "Multiple Color Scheme"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:62 inc/welcome/sections/free_vs_pro.php:62
+msgid "Choose any theme skin color you like."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:73 inc/welcome/sections/free_vs_pro.php:73
+msgid "Built on Theme Options."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:74 inc/welcome/sections/free_vs_pro.php:74
+msgid "Easy to use with user friendly guides on using the option panel."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:85 inc/welcome/sections/free_vs_pro.php:85
+msgid "Header Layouts"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:86 inc/welcome/sections/free_vs_pro.php:86
+msgid "Choose any one header layout from available 3 header layouts."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:89 welcome/sections/free_vs_pro.php:101
+#: inc/welcome/sections/free_vs_pro.php:89
+#: inc/welcome/sections/free_vs_pro.php:101
+msgid "1"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:92 inc/welcome/sections/free_vs_pro.php:92
+msgid "3"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:97 inc/welcome/sections/free_vs_pro.php:97
+msgid "Blog Layouts"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:98 inc/welcome/sections/free_vs_pro.php:98
+msgid "Choose anyone One blog layout from available Five Layouts."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:104 welcome/sections/free_vs_pro.php:176
+#: inc/welcome/sections/free_vs_pro.php:104
+#: inc/welcome/sections/free_vs_pro.php:176
+msgid "5"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:109
+#: inc/welcome/sections/free_vs_pro.php:109
+msgid "Web Layouts"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:110
+#: inc/welcome/sections/free_vs_pro.php:110
+msgid "Display the site either in a boxed or fullwidth layout."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:121
+#: inc/welcome/sections/free_vs_pro.php:121
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:122
+#: inc/welcome/sections/free_vs_pro.php:122
+msgid "Keep track of locations within site."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:133
+#: inc/welcome/sections/free_vs_pro.php:133
+msgid "Custom Footer Text"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:134
+#: inc/welcome/sections/free_vs_pro.php:134
+msgid "Configure custom text to appear in the footer."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:145
+#: inc/welcome/sections/free_vs_pro.php:145
+msgid "Supports Revolution Slider"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:146
+#: inc/welcome/sections/free_vs_pro.php:146
+msgid "Have the revolution slider as the featured slider within the site."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:157
+#: inc/welcome/sections/free_vs_pro.php:157
+msgid "Custom Page Header Banner"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:158
+#: inc/welcome/sections/free_vs_pro.php:158
+msgid "Uniquely display the header banner for each page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:169
+#: inc/welcome/sections/free_vs_pro.php:169
+msgid "Custom Post Types"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:170
+#: inc/welcome/sections/free_vs_pro.php:170
+msgid ""
+"Have seperate custom post types for the posts to have a unique and "
+"distinctive design and settings."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:181
+#: inc/welcome/sections/free_vs_pro.php:181
+msgid "Testimonial Page Layouts"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:182
+#: inc/welcome/sections/free_vs_pro.php:182
+msgid "Two different layouts for the testimonial page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:188 welcome/sections/free_vs_pro.php:200
+#: welcome/sections/free_vs_pro.php:212 welcome/sections/free_vs_pro.php:224
+#: inc/welcome/sections/free_vs_pro.php:188
+#: inc/welcome/sections/free_vs_pro.php:200
+#: inc/welcome/sections/free_vs_pro.php:212
+#: inc/welcome/sections/free_vs_pro.php:224
+msgid "2"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:193
+#: inc/welcome/sections/free_vs_pro.php:193
+msgid "Team Page Layout"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:194
+#: inc/welcome/sections/free_vs_pro.php:194
+msgid "Two different layouts for the team page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:205
+#: inc/welcome/sections/free_vs_pro.php:205
+msgid "Portfolio Page Layout"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:206
+#: inc/welcome/sections/free_vs_pro.php:206
+msgid "Two different layouts for the portfolio page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:217
+#: inc/welcome/sections/free_vs_pro.php:217
+msgid "Service Page Layout"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:218
+#: inc/welcome/sections/free_vs_pro.php:218
+msgid "Two different layouts for the service page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:229
+#: inc/welcome/sections/free_vs_pro.php:229
+msgid "Extra Woocommerce Options"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:230
+#: inc/welcome/sections/free_vs_pro.php:230
+msgid "Dynamically assign the sidebars to the woocommerce pages."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:241
+#: inc/welcome/sections/free_vs_pro.php:241
+msgid "Typography Options"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:242
+#: inc/welcome/sections/free_vs_pro.php:242
+msgid "Set your custom fonts for the site from available 400+ Google Fonts."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:253
+#: inc/welcome/sections/free_vs_pro.php:253
+msgid "Inbuilt Shortcodes"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:254
+#: inc/welcome/sections/free_vs_pro.php:254
+msgid ""
+"Enrich your pages and posts adding beautiful and easy to use shortcodes "
+"built in the theme."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:260
+#: inc/welcome/sections/free_vs_pro.php:260
+msgid "13"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:265
+#: inc/welcome/sections/free_vs_pro.php:265
+msgid "Inbuilt Widgets"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:266
+#: inc/welcome/sections/free_vs_pro.php:266
+msgid ""
+"Theme comes with 21 custom widgets. Add it within the site to create a "
+"beautiful site in no time."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:269
+#: inc/welcome/sections/free_vs_pro.php:269
+msgid "7"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:272
+#: inc/welcome/sections/free_vs_pro.php:272
+msgid "21"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:277
+#: inc/welcome/sections/free_vs_pro.php:277
+msgid "Under Construction Page"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:278
+#: inc/welcome/sections/free_vs_pro.php:278
+msgid ""
+"Have a Under Maintanence/Construction page to temporarily disable the site."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:289
+#: inc/welcome/sections/free_vs_pro.php:289
+msgid "Woocommerce Compatible"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:290
+#: inc/welcome/sections/free_vs_pro.php:290
+msgid "Build a Ecommerce based website without any hasle."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:301
+#: inc/welcome/sections/free_vs_pro.php:301
+msgid "SEO Optimized"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:302
+#: inc/welcome/sections/free_vs_pro.php:302
+msgid ""
+"Increase the amount of visitors to the website with a fully SEO optimized "
+"theme"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:313
+#: inc/welcome/sections/free_vs_pro.php:313
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:314
+#: inc/welcome/sections/free_vs_pro.php:314
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:317
+#: inc/welcome/sections/free_vs_pro.php:317
+msgid "Buy Now"
+msgstr ""
+
+#: welcome/sections/getting_started.php:4
+msgid "Step 1 - Read Full Documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid ""
+"Before you start setting up the theme, there are few recommended action that "
+"you need to follow. These recommendation helps you to set up the theme more "
+"easily and quickly."
+msgstr ""
+
+#: welcome/sections/getting_started.php:6
+msgid "Read Documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:10
+msgid "Step 2 - Theme Options Panel"
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:3
+msgid "WPAll Club"
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:4
+msgid ""
+"A complete WordPress resources club. WordPress tutorials, blogs, curated "
+"free and premium themes and plugins, WordPress deals, offers, hosting info "
+"and more."
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:5 welcome/sections/more_wp_stuff.php:11
+#: welcome/sections/more_wp_stuff.php:17 welcome/sections/more_wp_stuff.php:27
+#: welcome/sections/more_wp_stuff.php:33
+msgid "Explore"
+msgstr ""
+
+#. Author of the theme
+#: welcome/sections/more_wp_stuff.php:9
+msgid "AccessPress Themes"
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:10
+msgid ""
+"AccessPress Themes has 50+ beautiful and elegant, fully responsive, "
+"multipurpose themes to meet your need for free and commercial basis."
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:15
+msgid "8Degree Themes"
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:16
+msgid ""
+"8Degree Themes offers 15+ free WordPress themes and 16+ premium WordPress "
+"themes  carefully crafted with creativity."
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:25
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:26
+msgid ""
+"6 premium WordPress themes well suited for all sort of websites. "
+"Professional, well coded and highly configurable themes for you."
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:31
+msgid "Premium WordPress Plugins"
+msgstr ""
+
+#: welcome/sections/more_wp_stuff.php:32
+msgid ""
+"45+ premium WordPress plugins of many different types. High user ratings, "
+"great quality and best sellers in CodeCanyon marketplace."
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:10
+msgid "Pro Plugins"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:11
+msgid "Take Advantage of some of our Premium Plugins"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:67
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#. %s : theme name
+#: welcome/sections/support.php:4
+#, php-format
+msgid ""
+"Read the detailed documentation of the theme. The documentation contain all "
+"the necessary information required to setup the theme %s."
+msgstr ""
+
+#: welcome/sections/support.php:5
+msgid "Read Full Documentation"
+msgstr ""
+
+#: welcome/sections/support.php:9 welcome/sections/support.php:11
+#: inc/welcome/sections/support.php:4
+msgid "Create Support Tickets"
+msgstr ""
+
+#: welcome/sections/support.php:10
+msgid ""
+"Still having problem after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem"
+msgstr ""
+
+#: welcome/sections/support.php:17
+msgid "Visuals Matters for Site Traffic"
+msgstr ""
+
+#: welcome/sections/support.php:18
+msgid ""
+"Without a good design, a site just looks lame, hence decreasing the site "
+"visitors. That is why you should care a lot about how your WordPress blog "
+"looks. If you wanna learn more on why visuals matters for site traffic "
+"follow the below link"
+msgstr ""
+
+#: welcome/sections/support.php:19 welcome/sections/support.php:25
+msgid "Read Full Article"
+msgstr ""
+
+#: welcome/sections/support.php:23
+msgid "Attract More Customers to Your Site"
+msgstr ""
+
+#: welcome/sections/support.php:24
+msgid ""
+"No matter how many efforts you have made in making a website, it is of no "
+"use if the users do not find it appealing. If the visitors are leaving you "
+"in few seconds. Learn how to attract the new visitors and keep the old "
+"visitors following this very very article"
+msgstr ""
+
+#: welcome/sections/support.php:29
+msgid "More WordPress Resources"
+msgstr ""
+
+#: welcome/sections/support.php:30
+msgid ""
+"Want to learn some more on themes ? Visit the following link for more "
+"information on latest articles on themes and plugins."
+msgstr ""
+
+#: welcome/sections/support.php:31
+msgid "View More"
+msgstr ""
+
+#: inc/welcome/sections/actions_required.php:58
+#: inc/welcome/sections/actions_required.php:122
+#: inc/welcome/sections/recommended_plugins.php:43
+#: inc/welcome/sections/recommended_plugins.php:149
+msgid "Version "
+msgstr ""
+
+#: inc/welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr ""
+
+#: inc/welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:5
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:11
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:16
+msgid "HomePage Settings"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:21
+msgid "Section Reorder"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:26
+msgid "Menu Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:31
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:41
+msgid "Footer Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:47
+msgid "Layout Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:61
+msgid "Step 1 - Checkout starter sites (Demos) "
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/sections/getting_started.php:62
+#, php-format
+msgid ""
+"%1$s now comes with a sites library with 6 starter sites to pick from. You "
+"can check theme out and decide which one to start with. However you can "
+"decide not to use any one of them and start building your site from scratch."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:63
+msgid "See Demos"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:69
+msgid "Step 2 - Import demo of your choice "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:70
+msgid ""
+"Once you chose one of the available starter sites (demos) - you can install "
+"it. Please be noted that once you install the demo, it will install all the "
+"required plugins too. It is not recommended to install demo on your existing "
+"content. A fresh WordPress installation would be required to install demo to "
+"replicate demo content exactly. "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:71
+msgid "Install Demo"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:74
+msgid "Step 3 - Start editing the demo content and making your site! "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:75
+msgid ""
+"Once you install the demo, you can start editing the content, replacing "
+"images etc."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:78
+msgid "Step 4 - You 're done! "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:79
+msgid "Go live with the website and get some rest"
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:80
+msgid "View Detail"
+msgstr ""
+
+#: inc/welcome/sections/support.php:5
+msgid ""
+"If you're having any issues with the theme, feel free to create a ticket in "
+"our support forum. We reply your ticket very soon!"
+msgstr ""
+
+#: inc/welcome/sections/support.php:6
+msgid "Create Ticket"
+msgstr ""
+
+#: inc/welcome/sections/support.php:12
+msgid "Online Chat"
+msgstr ""
+
+#: inc/welcome/sections/support.php:13
+msgid ""
+"If you need an immediate solution, you can try our online chat support too. "
+"However our online time is limited and as below"
+msgstr ""
+
+#: inc/welcome/sections/support.php:14
+msgid "Mon - Fri"
+msgstr ""
+
+#: inc/welcome/sections/support.php:15
+msgid "10AM - 5PM "
+msgstr ""
+
+#: inc/welcome/sections/support.php:16
+msgid "Kathmandu Time (GMT + 5:45)"
+msgstr ""
+
+#: inc/welcome/sections/support.php:17
+msgid "Start Online Chat"
+msgstr ""
+
+#: inc/welcome/sections/support.php:23
+msgid "Email to support team"
+msgstr ""
+
+#: inc/welcome/sections/support.php:24
+msgid ""
+"You can also email to our support team directly at : "
+"support@accesspressthemes.com."
+msgstr ""
+
+#: inc/welcome/sections/support.php:32
+msgid ""
+"Checkout our documentation and get more details on how to setup / configure "
+"theme step by step."
+msgstr ""
+
+#: inc/welcome/sections/support.php:33
+msgid "View Documentation"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"AccessPress Basic is a simple, basic &amp; clean.  It is beautifully "
+"designed responsive free WordPress business theme. It has useful features to "
+"setup your website fast and make your website operate smoothly. It doesn't "
+"have much features which you probably won't use at all! Full width and boxed "
+"layout, featured slider, featured posts, services/features/projects layout, "
+"testimonial layout, blog layout, social media integration, call to action "
+"and many other page layouts. Fully responsive, WooCommerce compatible, "
+"bbPress compatible, translation ready, cross-browser compatible, SEO "
+"friendly, RTL support. AccessPress Basic is multi-purpose and is suitable "
+"for any type of business. Highest level of compatibility with mostly used WP "
+"plugins.  Great customer support via online chat, email, support forum. "
+"Official support forum: http://accesspressthemes.com/support/ View full demo "
+"here: https://accesspressthemes.com/accesspress-basic/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://accesspressthemes.com/wordpress-themes/accesspress-basic/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://accesspressthemes.com"
+msgstr ""

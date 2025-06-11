@@ -1,0 +1,20 @@
+<wpml-config>
+    <admin-texts>
+        <key name="apbasic_options">
+            <key name="header_text" />
+            <key name="footer_text" />
+            <key name="slide1_title" />
+            <key name="slide1_description" />
+            <key name="slide1_readmore_text" />
+            <key name="slide2_title" />
+            <key name="slide2_description" />
+            <key name="slide2_readmore_text" />
+            <key name="slide3_title" />
+            <key name="slide3_description" />
+            <key name="slide3_readmore_text" />
+            <key name="slide4_title" />
+            <key name="slide4_description" />
+            <key name="slide4_readmore_text" />
+        </key>
+    </admin-texts>       
+</wpml-config>
